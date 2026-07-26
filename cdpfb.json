@@ -1,5 +1,5 @@
 {
-   "sites": [
+  "sites": [
     {
       "key": "❤乐播资源",
       "name": "❤乐播资源2",
@@ -27,16 +27,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-      "key": "虎牙",
-      "name": "🟣伦理1",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/?ac=listfrom/hym3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "伦理片"]
-	},   			  									
     {
       "key": "番号资源1",
       "name": "🟣番号资源1",
@@ -80,6 +70,18 @@
       "filterable": 0
     },
     {
+      "key": "lbapi9.com",
+      "name": "成人26",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
       "key": "♥️鸡坤资源3",
       "name": "🤘🏾️鸡坤资源3",
       "type": 1,
@@ -88,7 +90,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {      
+    {
       "key": "樂吧资源",
       "name": "樂吧资源(🔞)",
       "type": 1,
@@ -102,7 +104,8 @@
       "api": "https://apiyutu.com/api.php/provide/vod",
       "playerUrl": ""
     },
-	 { "key": "♥️玉兔专场",  
+    {
+      "key": "♥️玉兔专场",
       "name": "♥️玉兔采集",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
@@ -224,16 +227,6 @@
       "searchable": 1,
       "filterable": 1,
       "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar"
-    },
-    {
-      "key": "155专场",
-      "name": "🔞传媒7区",
-      "type": 1,
-      "api": "https://155api.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "森林",
