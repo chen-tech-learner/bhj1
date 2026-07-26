@@ -88,8 +88,21 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    {      
+      "key": "樂吧资源",
+      "name": "樂吧资源(🔞)",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "playerUrl": ""
+    },
     {
-      "key": "♥️玉兔专场",
+      "key": "玉兔资源",
+      "name": "玉兔资源(🔞)",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "playerUrl": ""
+    },
+	 { "key": "♥️玉兔专场",  
       "name": "♥️玉兔采集",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
