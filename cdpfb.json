@@ -1,5 +1,5 @@
-
-   "sites": [
+{
+  "sites": [
     {
       "key": "❤乐播资源",
       "name": "❤乐播资源2",
@@ -27,7 +27,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
+    {
       "key": "虎牙",
       "name": "🟣伦理1",
       "type": 1,
@@ -35,8 +35,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "伦理片"]
-	},   			  									
+        "伦理片"
+      ]
+    },
     {
       "key": "番号资源1",
       "name": "🟣番号资源1",
@@ -256,26 +257,24 @@
       ]
     }
   ],
-   "lives": [
-	  {
-        "name": "自动更新直播",
-        "type": 0,
-        "url": "https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
-        "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+  "lives": [
+    {
+      "name": "自动更新直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
     },
     {
-        "name": "自动更新直播1",
-        "type": 0,
-        "url": "https://gh-proxy.org/raw.githubusercontent.com/jn950/live/main/tv/pllive.txt",
-        "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      "name": "自动更新直播1",
+      "type": 0,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/jn950/live/main/tv/pllive.txt",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
     },
     {
-        "name": "自动更新组播",
-        "type": 0,
-        "url": "https://gh-proxy.org/raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt",
-        "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+      "name": "自动更新组播",
+      "type": 0,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
     }
-   ]
+  ]
 }
-  
-
