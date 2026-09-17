@@ -1,4 +1,4 @@
-{
+
    "sites": [
     {
       "key": "❤乐播资源",
@@ -256,6 +256,26 @@
       ]
     }
   ],
-  "logo": "",
-  "lives": []
+   "lives": [
+	  {
+        "name": "自动更新直播",
+        "type": 0,
+        "url": "https://gh-proxy.org/raw.githubusercontent.com/CCSH/IPTV/main/live.m3u",
+        "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "自动更新直播1",
+        "type": 0,
+        "url": "https://gh-proxy.org/raw.githubusercontent.com/jn950/live/main/tv/pllive.txt",
+        "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "自动更新组播",
+        "type": 0,
+        "url": "https://gh-proxy.org/raw.githubusercontent.com/q1017673817/iptvz/main/zubo_all.txt",
+        "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
+    }
+   ]
 }
+  
+
